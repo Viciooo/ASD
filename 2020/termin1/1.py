@@ -73,4 +73,4 @@ def main(arr):
 arr = [455,123,1266,114577]
 print(main(arr))
 
-#ale to jest okropne rozwiązanie ;-;
+#ale to jest okropne rozwiązanie ;-; złożoność O(n^2) chyba
